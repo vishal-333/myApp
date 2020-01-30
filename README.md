@@ -1,2 +1,1 @@
-# myApp
-ionic app
+
